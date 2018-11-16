@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1542316795 source:c:\users\ggire\onedrive\bureau\projetmodule4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1542316795 c:\users\ggire\onedrive\bureau\projetmodule4\menu.h
+
+1542321352 source:c:\users\ggire\onedrive\bureau\projetmodule4\donnees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"donnees.h"
+	"action.h"
+
+1542320908 source:c:\users\ggire\onedrive\bureau\projetmodule4\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"donnees.h"
+	"action.h"
+
+1542320699 c:\users\ggire\onedrive\bureau\projetmodule4\donnees.h
+
+1542321343 source:c:\users\ggire\onedrive\bureau\projetmodule4\action.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"action.h"
+
+1542321343 c:\users\ggire\onedrive\bureau\projetmodule4\action.h
+
